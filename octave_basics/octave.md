@@ -2,9 +2,6 @@ Octave CheatSheet
 -----------------
 
 > GNU Octave is a high-level interpreted language, primarily intended for numerical computations.  
-> (via [GNU Octave](http://www.gnu.org/software/octave/))
-
-> Hint: I also mad an octave docset for Dash: https://github.com/obstschale/octave-docset
 
 ### Basics
 
